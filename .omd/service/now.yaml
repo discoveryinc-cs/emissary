@@ -1,0 +1,13 @@
+omd_service:
+  - name: devops-toolkit
+
+omd_microservice:
+  name: cs-fork
+
+omd_business_services:
+  - name: content-systems
+
+omd_service_team_contact:
+  - name: dl-mcdautomation@discovery.com
+
+inventory_id: 980162270ee0cf69c2e3a0a0a87dd93d-e8e885e0931c2c609d3059f840c02b70

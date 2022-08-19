@@ -18,5 +18,10 @@ spec:
   scope: Namespaced
   versions:
   - name: v2
+    schema:
+      openAPIV3Schema:
+        description: ProjectController is the Schema for the projectcontrollers API
+        type: object
+        x-kubernetes-preserve-unknown-fields: true
     served: true
     storage: true

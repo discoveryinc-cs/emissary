@@ -20,8 +20,18 @@ spec:
   scope: Namespaced
   versions:
   - name: v1beta2
+    schema:
+      openAPIV3Schema:
+        description: FilterPolicy is the Schema for the filterpolicies API
+        type: object
+        x-kubernetes-preserve-unknown-fields: true
     served: true
     storage: false
   - name: v2
+    schema:
+      openAPIV3Schema:
+        description: FilterPolicy is the Schema for the filterpolicies API
+        type: object
+        x-kubernetes-preserve-unknown-fields: true
     served: true
     storage: true

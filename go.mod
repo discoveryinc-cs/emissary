@@ -105,8 +105,8 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/proto/otlp v0.7.0
-	golang.org/x/mod v0.5.1
-	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27
+	golang.org/x/mod v0.8.0
+	golang.org/x/sys v0.13.0
 	google.golang.org/genproto v0.0.0-20220204002441-d6cc3cc0770e
 	google.golang.org/grpc v1.44.0
 	google.golang.org/protobuf v1.27.1
@@ -196,14 +196,13 @@ require (
 	github.com/russross/blackfriday v1.6.0 // indirect
 	github.com/xlab/treeprint v1.1.0 // indirect
 	go.starlark.net v0.0.0-20220203230714-bb14e151c28f // indirect
-	golang.org/x/crypto v0.0.0-20220131195533-30dcbda58838 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/term v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
-	golang.org/x/tools v0.1.5 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect

@@ -1,7 +1,7 @@
 omd_service: platform
 
 omd_component:
-  name: REPONAME
+  name: emissary
   omd_type: platform
   description: platform
   omd_compliance: none
